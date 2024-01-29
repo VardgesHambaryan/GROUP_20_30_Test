@@ -1,0 +1,77 @@
+[
+    {
+        "name": "WEB Front-End",
+        "duration": "8 ամիս",
+        "price": "58,000 ֏"
+    },
+    {
+        "name": "Python (ML / AI)",
+        "duration": "7 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "Java",
+        "duration": "6 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "JavaScript",
+        "duration": "3 ամիս",
+        "price": "58,000 ֏"
+    },
+    {
+        "name": "React.js (Redux)",
+        "duration": "3 ամիս",
+        "price": "58,000 ֏"
+    },
+    {
+        "name": "Node.js",
+        "duration": "3 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "DevOps",
+        "duration": "4 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "C#",
+        "duration": "6 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "Python (Django)",
+        "duration": "5 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "PHP (Laravel)",
+        "duration": "3 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "WEB Full-Stack",
+        "duration": "11 ամիս",
+        "price": "58,000 ֏"
+    },
+    {
+        "name": "UI / UX Design",
+        "duration": "4 ամիս",
+        "price": "65,000 ֏"
+    },
+    {
+        "name": "QA Engineer",
+        "duration": "6 ամիս",
+        "price": "68,000 ֏"
+    },
+    {
+        "name": "Graphic Design",
+        "duration": "3 ամիս",
+        "price": "65,000 ֏"
+    },
+    {
+        "name": "Product Management",
+        "duration": "4 ամիս",
+        "price": "68,000 ֏"
+    }
+]
